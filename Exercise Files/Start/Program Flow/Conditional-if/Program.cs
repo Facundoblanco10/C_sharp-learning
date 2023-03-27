@@ -6,9 +6,21 @@ namespace Conditionals
     {
         static void Main(string[] args)
         {
-            int theVal = 50;
+            int theVal = 12;
 
             // TODO: if-else 
+            if (theVal == 50)
+            {
+                Console.WriteLine("The value is 50");
+            }
+            else if (theVal >= 51 && theVal <= 100)
+            {
+                Console.WriteLine("The value is between 51 and 100");
+            }
+            else
+            {
+                Console.WriteLine("The value is something else");
+            }
 
 
             // -----------------------
@@ -25,7 +37,7 @@ namespace Conditionals
             */
 
             // TODO: can be replaced by a ternary operator ?:
-
+            Console.WriteLine(theVal < 50 ? "theVal is small" : "theVal is large");
         }
     }
 }
