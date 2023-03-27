@@ -1,0 +1,15 @@
+C:\Users\facub\Personal\C_sharp-learning\Exercise Files\Start\Strings\Builder\bin\Debug\net7.0\Builder.exe
+C:\Users\facub\Personal\C_sharp-learning\Exercise Files\Start\Strings\Builder\bin\Debug\net7.0\Builder.deps.json
+C:\Users\facub\Personal\C_sharp-learning\Exercise Files\Start\Strings\Builder\bin\Debug\net7.0\Builder.runtimeconfig.json
+C:\Users\facub\Personal\C_sharp-learning\Exercise Files\Start\Strings\Builder\bin\Debug\net7.0\Builder.dll
+C:\Users\facub\Personal\C_sharp-learning\Exercise Files\Start\Strings\Builder\bin\Debug\net7.0\Builder.pdb
+C:\Users\facub\Personal\C_sharp-learning\Exercise Files\Start\Strings\Builder\obj\Debug\net7.0\Builder.csproj.AssemblyReference.cache
+C:\Users\facub\Personal\C_sharp-learning\Exercise Files\Start\Strings\Builder\obj\Debug\net7.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facub\Personal\C_sharp-learning\Exercise Files\Start\Strings\Builder\obj\Debug\net7.0\Builder.AssemblyInfoInputs.cache
+C:\Users\facub\Personal\C_sharp-learning\Exercise Files\Start\Strings\Builder\obj\Debug\net7.0\Builder.AssemblyInfo.cs
+C:\Users\facub\Personal\C_sharp-learning\Exercise Files\Start\Strings\Builder\obj\Debug\net7.0\Builder.csproj.CoreCompileInputs.cache
+C:\Users\facub\Personal\C_sharp-learning\Exercise Files\Start\Strings\Builder\obj\Debug\net7.0\Builder.dll
+C:\Users\facub\Personal\C_sharp-learning\Exercise Files\Start\Strings\Builder\obj\Debug\net7.0\refint\Builder.dll
+C:\Users\facub\Personal\C_sharp-learning\Exercise Files\Start\Strings\Builder\obj\Debug\net7.0\Builder.pdb
+C:\Users\facub\Personal\C_sharp-learning\Exercise Files\Start\Strings\Builder\obj\Debug\net7.0\Builder.genruntimeconfig.cache
+C:\Users\facub\Personal\C_sharp-learning\Exercise Files\Start\Strings\Builder\obj\Debug\net7.0\ref\Builder.dll

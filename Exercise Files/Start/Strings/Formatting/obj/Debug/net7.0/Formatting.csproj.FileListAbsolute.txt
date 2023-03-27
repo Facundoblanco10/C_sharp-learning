@@ -1,0 +1,15 @@
+C:\Users\facub\Personal\C_sharp-learning\Exercise Files\Start\Strings\Formatting\bin\Debug\net7.0\Formatting.exe
+C:\Users\facub\Personal\C_sharp-learning\Exercise Files\Start\Strings\Formatting\bin\Debug\net7.0\Formatting.deps.json
+C:\Users\facub\Personal\C_sharp-learning\Exercise Files\Start\Strings\Formatting\bin\Debug\net7.0\Formatting.runtimeconfig.json
+C:\Users\facub\Personal\C_sharp-learning\Exercise Files\Start\Strings\Formatting\bin\Debug\net7.0\Formatting.dll
+C:\Users\facub\Personal\C_sharp-learning\Exercise Files\Start\Strings\Formatting\bin\Debug\net7.0\Formatting.pdb
+C:\Users\facub\Personal\C_sharp-learning\Exercise Files\Start\Strings\Formatting\obj\Debug\net7.0\Formatting.csproj.AssemblyReference.cache
+C:\Users\facub\Personal\C_sharp-learning\Exercise Files\Start\Strings\Formatting\obj\Debug\net7.0\Formatting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facub\Personal\C_sharp-learning\Exercise Files\Start\Strings\Formatting\obj\Debug\net7.0\Formatting.AssemblyInfoInputs.cache
+C:\Users\facub\Personal\C_sharp-learning\Exercise Files\Start\Strings\Formatting\obj\Debug\net7.0\Formatting.AssemblyInfo.cs
+C:\Users\facub\Personal\C_sharp-learning\Exercise Files\Start\Strings\Formatting\obj\Debug\net7.0\Formatting.csproj.CoreCompileInputs.cache
+C:\Users\facub\Personal\C_sharp-learning\Exercise Files\Start\Strings\Formatting\obj\Debug\net7.0\Formatting.dll
+C:\Users\facub\Personal\C_sharp-learning\Exercise Files\Start\Strings\Formatting\obj\Debug\net7.0\refint\Formatting.dll
+C:\Users\facub\Personal\C_sharp-learning\Exercise Files\Start\Strings\Formatting\obj\Debug\net7.0\Formatting.pdb
+C:\Users\facub\Personal\C_sharp-learning\Exercise Files\Start\Strings\Formatting\obj\Debug\net7.0\Formatting.genruntimeconfig.cache
+C:\Users\facub\Personal\C_sharp-learning\Exercise Files\Start\Strings\Formatting\obj\Debug\net7.0\ref\Formatting.dll
